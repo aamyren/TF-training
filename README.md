@@ -1,7 +1,7 @@
 # TF-training
 #### Amy Ren ####
 ## TF-training ##
-Some sample code I wrote while learning TensorFlow, mostly working with MNIST Dataset
+Some sample code I wrote while learning TensorFlow, mostly working with MNIST Dataset. Explanation of the guidelines below:
 
 ### Neural Network Forward Propogation: ###
 Using Python, construct a class without importing any modules given the following guidelines:
